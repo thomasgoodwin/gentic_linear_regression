@@ -12,7 +12,6 @@ The data used in this assignment were grades of a class: Midterm Grade, Homework
 After fitness is calculated, the candidates are sorted by lowest cost (highest fitness) and the top half are crossbred. The new candidates take 𝜃0 and 𝜃1 from one parent and 𝜃2 and 𝜃3 from the other. On a mutation, the coefficient is assigned to a random value between 0 and 1. The second half of the new population are randomly generated.
 
 **Results:**
-Detailed results are in the csv file below is a summary:
 
 *The equation produced by Linear Regression with Gradient Descent:*\n
 * Linear Regression Function: 7.667123062546082 + 0.31262773x1 + 0.15289359x2 + 0.43866389x3
